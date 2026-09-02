@@ -1,0 +1,201 @@
+Patient_ID,First_Name,Last_Name,Age,Gender,Department,Diagnosis,Doctor,Ward,Admission_Date,Treatment_Cost,Insurance,Patient_Status
+P0001,Suman,Karki,71.0,Female,Neurology,Infection,Dr. Shrestha,ICU,2026-04-17,40431.19,Yes,Admitted
+P0002,Puja,Karki,36.0,MALE,Orthopedics,Pneumonia,Dr. Thapa,Private Ward,2026-04-09,40851.71,Yes,Discharged
+P0003,Sarita,Magar,30.0,Female ,Cardiology,Asthma,Dr. Karki,Ward A,2026-02-08,44198.85,,
+P0004,Bikash,Tamang,13.0,Female ,General Medicine,Diabetes,Dr. Shrestha,ICU ,2026-03-21,20778.88,NO,Under Observation
+P0005,Nabin,Sharma,48.0,Female ,Orthopedics,Fever,Dr. Gurung,ICU,2026-01-05,21922.71, Yes,Admitted
+P0006,Bibek,Gurung,56.0,MALE,emergency,Fever,Dr. Rai,Ward A,2026-03-03,6295.93,yes,Discharged
+P0007,Sarita,Thapa,4.0,male,Neurology,Migraine,Dr. Rai,ICU,2026-08-01,27999.55,No,admitted
+P0008,,Rai,17.0,Male,Emergency,Asthma,Dr. Sharma,General Ward,2026-08-21,28958.21,,admitted
+P0009,Bibek,Karki,65.0,male,Emergency,Gastritis,Dr. Sharma,Private Ward,2026-06-12,3170.82, Yes,Under Observation
+P0010,  Aarav ,Shrestha,22.0,Female,Cardiology,Migraine,Dr. Thapa,ward a,2026-04-14,24501.99,Yes,Discharged
+P0011,Aayush,Rai,11.0,male,Emergency,Diabetes,Dr. Gurung,Ward A,2026-08-04,48677.1,,admitted
+P0012,Mina,Adhikari,37.0,MALE,Emergency,Infection,Dr. Shrestha,Ward B,2026-06-18,49856.39,No,Under Observation
+P0013,Aayush,Sharma,38.0,Female ,Pediatrics,Back Pain,Dr. Gurung,ICU ,2026-05-28,,NO,Discharged
+P0014,Roshan,Adhikari,75.0,female,Cardiology,Fracture,Dr. Gurung,ICU,2026-04-15,26025.55,No,admitted
+P0015,Nabin,Poudel,,MALE,Pediatrics,Fever,Dr. Rai,Private Ward,2026-01-08,48096.43,No,Under Observation
+P0016,Nisha,Gurung,34.0,male,Pediatrics,Asthma,Dr. Gurung,Private Ward,2026-06-06,16016.81,Yes,Under Observation
+P0017,Nabin,Bhandari,18.0,MALE,Cardiology,Gastritis,Dr. Gurung,General Ward,2026-05-14,1020.12, Yes,Discharged
+P0018,Aarav,Karki,-5.0,male,Cardiology,Fever,Dr. Gurung,ICU,2026-05-21,24008.85,yes,Discharged
+P0019,Aarav,Sharma,11.0,Male,Pediatrics,Migraine,Dr. Karki,Ward B,2026-03-10,5377.83,Yes,Admitted
+P0020,Sneha,,63.0,Male,Pediatrics,Hypertension,Dr. Gurung,Ward A,2026-05-18,41152.66,,Under Observation
+P0021,Kiran,Karki,12.0,male,Orthopedics,Infection,Dr. Karki,ICU ,2026-02-18,48732.52,NO,DISCHARGED
+P0022,Riya,Adhikari,5.0,Female ,Emergency,Migraine,Dr. Rai,ICU,2026-05-15,37632.87,Yes,admitted
+P0023,Mina,Karki,21.0,female,Emergency,Migraine,,Ward A,2026-05-18,41934.26,,DISCHARGED
+P0024,Suman,Thapa,44.0,Female,General Medicine,Back Pain,Dr. Thapa,ICU ,2026-06-25,10415.18,yes,Admitted
+P0025,Sabin,Magar,60.0,MALE,Cardiology,Infection,Dr. Thapa,Ward B,2026-04-23,26639.72, Yes,Under Observation
+P0026,Aayush,Shrestha,45.0,Male,Emergency ,Fracture,Dr. Thapa,ward a,2026-05-07,40256.79,No,Discharged
+P0027,Roshan,Magar,59.0,Female,Orthopedics,Fracture,Dr. Gurung,ICU,2026-05-21,16423.73, Yes,Discharged
+P0028,Riya,Tamang,52.0,Male,Pediatrics,Hypertension,Dr. Karki,General Ward,2026-01-02,31955.69,No,Discharged
+P0029,Aayush,Rai,14.0,female,,Diabetes,Dr. Thapa,ward a,2026-08-27,15185.57,yes,admitted
+P0030,Nabin,Magar,54.0,Female ,Cardiology,Pneumonia,Dr. Sharma,ICU ,2026-08-10,16613.8,,
+P0031,Sarita,Rai,37.0,Female ,Pediatrics,Pneumonia,Dr. Rai,Ward A,2026-03-02,11227.39,yes,DISCHARGED
+P0032,Sita,Poudel,31.0,MALE,Emergency,Asthma,Dr. Shrestha,ward a,,16134.69,NO,DISCHARGED
+P0033,Aayush,Tamang,59.0,Female,Pediatrics,Fracture,Dr. Thapa,Ward B,2026-06-06,13336.34,yes,
+P0034,Sabin,Adhikari,30.0,female,Neurology,Fracture,Dr. Rai,ward a,2026-02-28,38336.33, Yes,Discharged
+P0035,Rohan,Thapa,79.0,Female,Pediatrics,Pneumonia,Dr. Thapa,ward a,2026-05-04,37013.37,NO,DISCHARGED
+P0011,Aayush,Rai,11.0,male,Emergency,Diabetes,Dr. Gurung,Ward A,2026-08-04,48677.1,,admitted
+P0037,Mina,Adhikari,57.0,Female,Pediatrics,,Dr. Rai,General Ward,2026-08-12,48897.59,No,Discharged
+P0038,Anisha,Karki,25.0,female,Emergency,Hypertension,Dr. Rai,ICU ,2026-03-07,7759.37, Yes,
+P0039,Sabin,Magar,38.0,male,General Medicine,Fever,Dr. Shrestha,Ward A,2026-05-17,15913.05,,Under Observation
+P0040,Rohan, Thapa ,41.0,Male,Orthopedics,Migraine,Dr. Karki,ICU,2026-05-17,30784.91,NO,Discharged
+P0041,Suman,Tamang,69.0,female,Orthopedics,Gastritis,Dr. Rai,Ward B,2026-01-28,2655.88,Yes,Under Observation
+P0042,Prakash,Shrestha,19.0,Male,General Medicine,Infection,Dr. Sharma,Ward A,2026-03-31,26169.88,,DISCHARGED
+P0043,Prakash,KC,19.0,Female,General Medicine,Gastritis,Dr. Sharma,ward a,2026-06-23,37277.96,yes,Admitted
+P0044,,Tamang,80.0,Female,Orthopedics,Migraine,Dr. Rai,Private Ward,2026-01-28,38783.64,yes,Under Observation
+P0045,Aarav,KC,7.0,female,Emergency,Asthma,Dr. Karki,ICU ,2026-04-22,4881.78,yes,
+P0046,Mina,Adhikari,63.0,MALE,CARDIOLOGY,Gastritis,Dr. Rai,Private Ward,2026-08-26,38402.17,Yes,
+P0047,Rohan,KC,80.0,male,Neurology,Fever,Dr. Thapa,ICU ,2026-08-01,33471.57, Yes,
+P0048,Puja,Adhikari,30.0,Male,Pediatrics,Fever,Dr. Gurung,Private Ward,2026-08-12,15101.72,NO,DISCHARGED
+P0049,Bikash,Bhandari,38.0,female,General Medicine,Diabetes,Dr. Shrestha,,2026-05-28,12299.07,yes,Discharged
+P0050,Bibek,Poudel,45.0,Male,Cardiology,Infection,Dr. Gurung,Ward B,2026-05-01,16080.62,NO,DISCHARGED
+P0051,Sita,Gurung,51.0,Male,Cardiology,Fever,Dr. Rai,Ward A,2026-07-28,22129.64,yes,
+P0052,Sita,Magar,51.0,MALE,General Medicine,Fever,Dr. Sharma,ward a,2026-08-01,21708.66, Yes,admitted
+P0053,Nisha,Rai,80.0,MALE,General Medicine,Asthma,Dr. Karki,Ward B,2026-03-24,40650.43,yes,Under Observation
+P0054,Prakash,Sharma,61.0,Female,Pediatrics,Infection,Dr. Thapa,ward a,2026-08-25,22601.72,NO,Under Observation
+P0055,Sabin,Shrestha,5.0,Female ,Neurology,Pneumonia,Dr. Sharma,ICU,2026-08-16,886.21,No,Discharged
+P0056,Roshan,Rai,,Female,Pediatrics,Fracture,Dr. Gurung,ward a,2026-07-02,1396.18,yes,admitted
+P0057,Anisha,Gurung,62.0,female,Cardiology,Migraine,Dr. Sharma,ICU,2026-05-01,4935.6, Yes,
+P0058,Kiran,Magar,150.0,female,Emergency,Gastritis,Dr. Rai,ward a,2026-03-07,16498.38,No,Under Observation
+P0059,Suman,Adhikari,32.0,Female ,Emergency,Fracture,Dr. Rai,ICU ,2026-02-24,5670.88,yes,Discharged
+P0060,Nabin,Poudel,31.0,MALE,Emergency,Gastritis,Dr. Sharma,ward a,2026-05-10,9161.28,,DISCHARGED
+P0061,Sarita,Tamang,57.0,MALE,Emergency,Fever,Dr. Sharma,Ward A,2026-04-17,17091.65, Yes,Discharged
+P0062,Sabin,KC,41.0,Male,Cardiology,Migraine,Dr. Thapa,ICU ,2026-07-15,,yes,
+P0063,Riya,Rai,25.0,female,Cardiology,Back Pain,Dr. Gurung,ICU ,2026-08-22,36659.31,yes,
+P0064,Alisha,,58.0,male,Pediatrics,Infection,Dr. Rai,ward a,2026-02-25,8861.76,Yes,
+P0065,Riya,Sharma,72.0,Male,Neurology,Migraine,Dr. Sharma,Ward A,2026-07-11,16845.27,yes,Under Observation
+P0066,Rohan,Rai,19.0,Female,Pediatrics, fever ,Dr. Gurung,ICU,2026-05-09,10955.0,No,DISCHARGED
+P0067,Puja,Sharma,65.0,Female,General Medicine,Fracture,Dr. Karki,ward a,2026-02-25,30591.21,Yes,DISCHARGED
+P0068,Nabin,Karki,79.0,MALE,Cardiology,Asthma,Dr. Gurung,Ward B,2026-03-05,23897.5,,admitted
+P0069,Mina,Karki,38.0,female,Pediatrics,Fever,Dr. Karki,ICU ,2026-03-12,3687.63,No,DISCHARGED
+P0070,Sita,Tamang,48.0,male,Emergency,Back Pain,Dr. Shrestha,ward a,2026-01-03,10972.35,yes,admitted
+P0071,Sneha,Sharma,70.0,Female,Emergency,Gastritis,Dr. Sharma,ICU ,2026-04-04,35295.94,NO,Admitted
+P0072,Suman,Poudel,55.0,Female,General Medicine,Migraine,Dr. Rai,Private Ward,2026-06-16,47255.83,yes,Under Observation
+P0073,Kiran,KC,73.0,male,Emergency,Back Pain,Dr. Shrestha,Ward B,not-a-date,3463.06, Yes,Discharged
+P0074,Riya,Adhikari,62.0,MALE,General Medicine,Asthma,Dr. Sharma,Ward B,2026-01-10,46154.26,yes,Under Observation
+P0075,Bikash,Sharma,37.0,male,Pediatrics,Hypertension,Dr. Rai,ICU ,2026-05-24,36849.67,,
+P0076,Sarita,Magar,78.0,MALE,Pediatrics,,Dr. Karki,Ward B,2026-03-13,49416.93, Yes,Discharged
+P0077,Nisha,Tamang,43.0,MALE,Neurology,Migraine,Dr. Sharma,Ward B,2026-01-15,28688.88,Yes,Admitted
+P0078,Suman,Magar,30.0,male,Pediatrics,Fever,Dr. Sharma,General Ward,2026-02-21,39830.42, Yes,DISCHARGED
+P0043,Prakash,KC,19.0,Female,General Medicine,Gastritis,Dr. Sharma,ward a,2026-06-23,37277.96,yes,Admitted
+P0080,Alisha,Sharma,71.0,Male,Emergency,Migraine,Dr. Rai,Private Ward,2026-04-15,23079.51,No,Discharged
+P0081,Anisha,Karki,78.0,Female ,Cardiology,Fracture,Dr. Rai,Ward B,2026-06-02,10348.02,yes,Under Observation
+P0082,Rohan,Adhikari,23.0,Female ,Pediatrics,Migraine,Dr. Shrestha,Private Ward,2026-08-24,25921.95,NO,DISCHARGED
+P0083,Bikash,Bhandari,47.0,Female,Cardiology,Migraine,Dr. Rai,General Ward,2026-05-31,10500.88,yes,Discharged
+P0084,Sarita,Rai,29.0,Female,Orthopedics,Fever,Dr. Thapa,ICU,2026-06-04,20372.09, Yes,admitted
+P0085,Bikash,Shrestha,42.0,male,Neurology,Diabetes,,Ward A,2026-04-30,18872.39, Yes,admitted
+P0086,Sneha,Thapa,78.0,male,General Medicine,FEVER,Dr. Sharma,Ward B,2026-05-26,20643.2,No,Discharged
+P0087,Bikash,Shrestha,32.0,male,Neurology,Fever,Dr. Thapa,Ward B,2026-08-09,5251.38, Yes,Discharged
+P0088,Bibek,Rai,49.0,female,General Medicine,Hypertension,Dr. Shrestha,ICU,2026-03-06,1610.64,yes,Admitted
+P0089,,Gurung,58.0,male,Cardiology,Gastritis,Dr. Gurung,Ward A,2026-08-03,17850.59,Yes,Discharged
+P0090,Sita,Poudel,58.0,Male,Orthopedics,Infection,Dr. Gurung,ward a,2026-06-20,3139.92,No,Under Observation
+P0091,Sita,Sharma,4.0,female,Pediatrics,Infection,Dr. Shrestha,Ward B,2026-04-05,18064.98,Yes,
+P0092,Rohan,Thapa,46.0,Female ,,Fever,Dr. Gurung,General Ward,2026-02-27,7106.85, Yes,Discharged
+P0093,Aarav,Sharma,11.0,Female ,Emergency,Back Pain,Dr. Thapa,Private Ward,2026-03-26,4141.43,Yes,admitted
+P0094,Aarav,Sharma,31.0,female,General Medicine,Diabetes,Dr. Thapa,ICU ,2026-03-25,41587.13,No,DISCHARGED
+P0095,Riya,Gurung,13.0,male,Cardiology,Migraine,Dr. Karki,General Ward,2026-05-12,3236.14,,Under Observation
+P0096,Sneha,Tamang,29.0,Female,Cardiology,Pneumonia,Dr. Gurung,General Ward,2026-05-21,35662.77,NO,Admitted
+P0097,Alisha,KC,17.0,male,Orthopedics,Hypertension,Dr. Shrestha,Ward A,2026-06-12,20204.61,No,
+P0098,Puja,Thapa,25.0,Female,Cardiology,Diabetes,Dr. Rai,ICU,,26048.72,Yes,admitted
+P0099,Kiran,Sharma,54.0,Female ,Orthopedics,Back Pain,Dr. Gurung,ICU,2026-06-10,37352.42, Yes,Discharged
+P0100,Bikash,Adhikari,71.0,Male,General Medicine,Back Pain,Dr. Karki,ICU ,2026-07-01,35809.14,yes,admitted
+P0101,Sita,Gurung,68.0,female,Emergency,Gastritis,Dr. Rai,Ward A,2026-04-19,20952.67,Yes,admitted
+P0102,Aayush,Sharma,76.0,Male,General Medicine,Gastritis,Dr. Thapa,ward a,2026-05-20,19078.69,Yes,Under Observation
+P0103,Riya,Sharma,72.0,male,Orthopedics,Gastritis,Dr. Shrestha,Private Ward,2026-04-22,46899.07,,Admitted
+P0104,Aayush,Adhikari,44.0,Female,Orthopedics,Infection,Dr. Thapa,,2026-04-20,19526.8,NO,Under Observation
+P0105,Rohan,Adhikari,45.0,male,Cardiology,Diabetes,Dr. Rai,Private Ward,2026-02-02,7800.79,yes,DISCHARGED
+P0106,Bibek,Shrestha,2.0,MALE,Neurology,Hypertension,Dr. Gurung, ward b ,2026-06-24,46604.36,NO,DISCHARGED
+P0107,Sabin,Tamang,75.0,Female,Pediatrics,Migraine,Dr. Gurung,ICU,2026-08-24,14139.71,Yes,admitted
+P0108,Sarita,Poudel,36.0,Male,Emergency,Pneumonia,Dr. Gurung,General Ward,2026-02-24,32411.7,yes,Under Observation
+P0109,Sneha,Shrestha,30.0,Female,General Medicine,Fracture,Dr. Karki,Private Ward,2026-07-16,14054.18, Yes,DISCHARGED
+P0110,Bibek,,24.0,Female ,Pediatrics,Fracture,Dr. Sharma,General Ward,2026-06-13,46851.72,,admitted
+P0111,Aayush,Poudel,27.0,male,Cardiology,Gastritis,Dr. Shrestha,Ward A,2026-08-06,15655.31,No,Under Observation
+P0112,Prakash,Gurung,54.0,MALE,Orthopedics,Gastritis,Dr. Gurung,Ward B,2026-04-26,38510.61,Yes,admitted
+P0113,Aarav,Shrestha,53.0,Female,Orthopedics,Fracture,Dr. Shrestha,ICU,2026-08-12,37808.73,No,Admitted
+P0114,Roshan,Karki,2.0,Female ,Neurology,Fracture,Dr. Karki,General Ward,2026-03-11,28934.58,NO,Admitted
+P0115,Aarav,Poudel,42.0,Female ,Cardiology,Gastritis,Dr. Sharma,Ward B,2026-01-26,16141.12,NO,admitted
+P0116,Mina,Adhikari,42.0,Female ,Emergency,Diabetes,Dr. Sharma,Ward A,2026-05-31,23996.63,Yes,admitted
+P0117,Nabin,Shrestha,57.0,male,Pediatrics,Migraine,Dr. Karki,Private Ward,2026-07-18,23478.1, Yes,admitted
+P0118,Suman,Karki,unknown,female,Pediatrics,Migraine,Dr. Rai,Ward A,2026-05-04,47198.71,Yes,
+P0119,Bikash,Sharma,41.0,Female,Pediatrics,Gastritis,Dr. Karki,Ward A,2026-08-26,47431.61,NO,DISCHARGED
+P0120,Sneha,Gurung,,male,General Medicine,Migraine,Dr. Shrestha,Private Ward,2026-06-20,8378.81,yes,Under Observation
+P0068,Nabin,Karki,79.0,MALE,Cardiology,Asthma,Dr. Gurung,Ward B,2026-03-05,23897.5,,admitted
+P0122,Alisha,Bhandari,11.0,male,Orthopedics,Gastritis,Dr. Shrestha,Ward B,2026-04-16,24676.86,NO,admitted
+P0123,Bibek,Rai,45.0,MALE,Cardiology,Fracture,Dr. Rai,Private Ward,2026-01-18,21569.87, Yes,DISCHARGED
+P0124,Anisha,Bhandari,80.0,MALE,Cardiology,Pneumonia,Dr. Sharma,General Ward,2026-06-06,15716.29,Yes,Under Observation
+P0125,Suman,KC,20.0,female,General Medicine,Diabetes,Dr. Sharma,Ward B,2026-04-13,41026.44,,admitted
+P0126,Nabin,Bhandari,7.0, FEMALE,Emergency,Gastritis,Dr. Karki,General Ward,2026-04-17,24798.78,,DISCHARGED
+P0127,Sneha,Sharma,13.0,female,Cardiology,Infection,Dr. Rai,ICU,2026-03-18,,,DISCHARGED
+P0128,Aayush,Sharma,79.0,Male,Neurology,Back Pain,Dr. Gurung,Ward A,2026-06-08,37740.92,yes,Discharged
+P0129,Aarav,Adhikari,33.0,Male,General Medicine,Gastritis,Dr. Gurung,Ward A,2026-01-29,4255.48,NO,admitted
+P0130,Aayush,Bhandari,59.0,Male,Emergency,Infection,Dr. Karki,Ward B,2026-07-23,8614.04,Yes,Admitted
+P0131,Roshan,Thapa,26.0,Female,Pediatrics,Pneumonia,Dr. Gurung,ICU,2026-01-21,46722.17,Yes,Admitted
+P0132,Alisha,KC,10.0,Male,General Medicine,Back Pain,Dr. Rai,ICU ,2026-04-17,45966.42, Yes,admitted
+P0133,Mina,Shrestha,33.0,Male,Pediatrics,Infection,Dr. Shrestha,Private Ward,2026-06-12,8513.32,,Discharged
+P0134,Prakash,Thapa,55.0,male,Cardiology,,Dr. Shrestha,Private Ward,2026-01-21,24279.18,yes,admitted
+P0135,Sita,Tamang,73.0,MALE,Pediatrics,Hypertension,Dr. Thapa,ICU,2026-01-09,33679.02,yes,
+P0136,Anisha,Poudel,64.0,Male,General Medicine,Gastritis,Dr. Thapa,Private Ward,2026-04-14,43800.46,Yes,Discharged
+P0137,Sneha,Karki,24.0,MALE,Pediatrics,Diabetes,Dr. Karki,Ward A,2026-04-29,35890.27,yes,Discharged
+P0138,Alisha,Magar,64.0,male,Pediatrics,Pneumonia,Dr. Shrestha,ward a,2026-03-02,-1000.0,NO,
+P0139,Bibek,Rai,74.0,MALE,Emergency,Fracture,Dr. Gurung,ward a,2026-02-18,36935.42,,DISCHARGED
+P0140,Sita  ,Gurung,39.0,Male,Orthopedics,Infection,Dr. Karki,Private Ward,2026-01-05,11598.24,NO,Under Observation
+P0141,Sneha,Thapa,53.0,female,Orthopedics,Pneumonia,Dr. Gurung,ICU ,2026-02-20,40606.29,No,DISCHARGED
+P0142,,Adhikari,49.0,MALE,Cardiology,Migraine,Dr. Rai,Private Ward,2026-03-21,1451.44,No,Under Observation
+P0143,Puja,Karki,22.0,Female ,Cardiology,Pneumonia,Dr. Sharma,ICU ,2026-05-07,49862.73, Yes,Discharged
+P0144,Nisha,Thapa,23.0,MALE,Cardiology,Infection,Dr. Shrestha,ward a,2026-08-15,22114.3,Yes,DISCHARGED
+P0145,Aayush,Bhandari,7.0,female,Orthopedics,Infection,Dr. Karki,General Ward,2026-04-01,44277.21,,Discharged
+P0146,Aayush,Tamang,78.0,Female ,Cardiology,Gastritis,Dr. Gurung,ward a,,1023.98,yes,DISCHARGED
+P0147,Anisha,Karki,15.0,MALE,Neurology,Hypertension,Dr. Thapa,ICU ,2026-01-12,7503.31,NO,Under Observation
+P0148,Nisha,Rai,16.0,female,Orthopedics,Fever,Dr. Rai,ward a,2026-04-10,18823.4,yes,Admitted
+P0149,Prakash,Rai,51.0,Female ,Pediatrics,Asthma,Dr. Thapa,ICU ,2026-01-12,41854.99,No,Discharged
+P0150,Nisha,KC,45.0,male,Cardiology,Fracture,Dr. Karki,ward a,2026-06-25,669.31,yes,Admitted
+P0151,Bikash,Rai,48.0,Male,Orthopedics,Fracture,Dr. Karki,ICU,2026-02-25,31612.39,,
+P0152,Suman,Bhandari,68.0,MALE,Orthopedics,Gastritis,Dr. Thapa,Ward A,2026-04-08,36779.55, Yes,Admitted
+P0153,Anisha,Adhikari,36.0,male,General Medicine,Hypertension,Dr. Thapa,General Ward,2026-04-15,13700.42,No,admitted
+P0154,Bibek,Rai,12.0,male,Emergency,Migraine,Dr. Thapa,ICU ,2026-07-08,40302.44,No,Admitted
+P0155,Mina,Magar,45.0,Male,Emergency,Back Pain,Dr. Rai,ward a,2026-03-04,48550.02,NO,Under Observation
+P0156,Sarita,Karki,58.0,Female,Neurology,Fracture,Dr. Shrestha,Private Ward,2026-04-12,1566.29,,discharged 
+P0157,Roshan,Tamang,4.0,Female ,Cardiology,Back Pain,Dr. Sharma,ICU ,2026-06-28,38956.7,Yes,Under Observation
+P0158,Aayush,Shrestha,6.0,male,,Back Pain,Dr. Karki,General Ward,2026-06-27,44604.4,No,admitted
+P0159,Rohan,Magar,14.0,MALE,Pediatrics,Gastritis,Dr. Thapa,Private Ward,2026-06-20,27258.28,,
+P0160,Riya,Rai,6.0,Female ,Pediatrics,Back Pain,Dr. Shrestha,Ward A,2026-02-17,24505.66,No,Under Observation
+P0161,Nabin,Thapa,72.0,male,Emergency,Diabetes,Dr. Sharma,ward a,2026-07-06,33932.06,,Admitted
+P0162,Nabin,Bhandari,25.0,Male,Cardiology,Gastritis,Dr. Shrestha,ICU ,2026-04-25,46498.97,No,admitted
+P0163,Anisha,Rai,79.0,male,Neurology,Migraine,Dr. Shrestha,General Ward,2026/99/45,44672.61,NO,Discharged
+P0164,Sita,Tamang,72.0,Female,Neurology,Fever,Dr. Sharma,General Ward,2026-04-29,1206.92,NO,DISCHARGED
+P0165,Nabin,Bhandari,30.0,Female ,Pediatrics,Back Pain,,Ward A,2026-05-17,14320.09, Yes,
+P0166,Puja,Thapa,35.0,Female,Neurology,Pneumonia,Dr. Shrestha,Ward B,2026-07-02,40308.4,Yes,
+P0102,Aayush,Sharma,76.0,Male,General Medicine,Gastritis,Dr. Thapa,ward a,2026-05-20,19078.69,Yes,Under Observation
+P0168,Nabin,Thapa,85.0,Male,Neurology,Diabetes,Dr. Sharma,Private Ward,2026-03-09,22841.44,,Admitted
+P0169,Alisha,Bhandari,35.0,Female,Neurology,Hypertension,Dr. Sharma,Ward A,2026-01-08,39173.52,yes,Admitted
+P0170,Suman,Gurung,21.0,Female,Pediatrics,Diabetes,Dr. Shrestha,ICU ,2026-02-01,35378.68,No,
+P0171,Sita,Karki,29.0,Female,Cardiology,Gastritis,Dr. Gurung,General Ward,2026-05-18,24494.31,,Admitted
+P0172,Aarav,Gurung,44.0,Female ,Pediatrics,Hypertension,Dr. Shrestha,General Ward,2026-06-26,25216.3,Yes,DISCHARGED
+P0173,Aayush,,74.0,male,Neurology,Diabetes,Dr. Gurung,ICU,2026-07-09,19270.07,,Under Observation
+P0174,Mina,Poudel,60.0,Male,Neurology,Asthma,Dr. Sharma,General Ward,2026-08-08,24432.42,NO,Admitted
+P0175,Riya,Sharma,56.0,female,Cardiology,Back Pain,Dr. Karki,Ward B,2026-08-05,9771.49,Yes,Under Observation
+P0176,Sabin,Tamang,73.0,Female ,Pediatrics,Infection,Dr. Gurung,Private Ward,2026-08-18,9519.84, YES ,Under Observation
+P0177,Anisha,Magar,17.0,Female ,Neurology,Migraine,Dr. Gurung,ward a,2026-02-15,23616.1,NO,Admitted
+P0178,Sabin,Thapa,43.0,male,Cardiology,Infection,Dr. Shrestha,Private Ward,2026-02-15,,NO,Under Observation
+P0179,Riya,Thapa,59.0,MALE,Cardiology,Fever,Dr. Thapa,ICU,2026-02-14,9758.61,NO,
+P0180,Nisha,KC,44.0,Male,Cardiology,Migraine,Dr. Rai,ward a,2026-07-09,17514.37,No,Admitted
+P0181,Aayush,Tamang,32.0,male,Orthopedics,Hypertension,Dr. Karki,ICU ,2026-07-08,41664.46,,admitted
+P0182,Aayush,Bhandari,46.0,Female ,Neurology,Fracture,Dr. Thapa,,2026-03-18,19726.38,,Under Observation
+P0183,Aayush,Sharma,30.0,male,Emergency,Diabetes,Dr. Shrestha,ICU ,2026-04-06,4597.05,,Discharged
+P0184,Aarav,Tamang,4.0,Male,General Medicine,Hypertension,Dr. Thapa,Ward A,2026-03-26,28827.4,,Admitted
+P0185,Nisha,Poudel,8.0,MALE,Cardiology,Gastritis,Dr. Shrestha,Private Ward,2026-06-26,28206.82,,Discharged
+P0186,Rohan,Tamang,10.0,Female,Cardiology,Asthma,Dr. Gurung,Ward A,2026-06-10,42025.81,Yes,Admitted
+P0187,Mina,Magar,34.0,MALE,Cardiology,Pneumonia,Dr. Thapa,ICU ,2026-01-15,15701.74,Yes,Discharged
+P0188,Sarita,Shrestha,28.0,female,General Medicine,Asthma,Dr. Sharma,ward a,2026-08-05,0.0,Yes,
+P0189,Mina,Sharma,79.0,MALE,Emergency,Asthma,Dr. Shrestha,General Ward,2026-03-17,9222.62,yes,Admitted
+P0190,Aarav,Adhikari,74.0,male,General Medicine,Diabetes,Dr. Thapa,Ward B,2026-03-26,39346.77,yes,Admitted
+P0191,Sneha,Adhikari,10.0,Male,Cardiology,Fracture,Dr. Gurung,ICU ,2026-08-08,13473.32,yes,Admitted
+P0192,Prakash,Karki,9.0,male,Orthopedics,Hypertension,Dr. Rai,ICU ,2026-04-29,36985.78,yes,Discharged
+P0193,Sneha,Gurung,56.0,Female,Neurology,Pneumonia,Dr. Sharma,Private Ward,2026-03-18,18045.3, Yes,admitted
+P0194,Prakash,Magar,71.0,female,Orthopedics,Infection,Dr. Rai,ward a,2026-01-26,36687.15, Yes,DISCHARGED
+P0195,Rohan,Thapa,4.0,female,Neurology,Hypertension,Dr. Rai,ICU,2026-08-11,5592.79,,Admitted
+P0151,Bikash,Rai,48.0,Male,Orthopedics,Fracture,Dr. Karki,ICU,2026-02-25,31612.39,,
+P0197,Aayush,Gurung,64.0,Male,Orthopedics,Gastritis,Dr. Shrestha,ICU ,2026-06-12,7581.63,No,Discharged
+P0198,Prakash,Adhikari,75.0,Female ,Orthopedics,Hypertension,Dr. Rai,Private Ward,2026-01-03,unknown,,Discharged
+P0199,Sarita,Poudel,55.0,Male,Orthopedics,Hypertension,Dr. Gurung,Ward B,2026-02-16,10515.36,NO,
+P0200,Sarita,Poudel,16.0,MALE,Cardiology,Migraine,Dr. Thapa,Ward A,2026-08-10,4638.01,Yes,
